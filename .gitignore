@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+*.db-shm
+*.db-wal
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and OS files
+.env
+.DS_Store
